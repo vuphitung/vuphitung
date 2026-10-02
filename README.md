@@ -10,8 +10,8 @@
 
 ### about
 
-Code bug nhiều hơn code chạy, nhưng vẫn build được tool đẹp.
-Đang làm [CyberClean](https://github.com/vuphitung/CyberClean) và rice Arch Linux với Hyprland bằng tinh thần hy vọng.
+Writing more bugs than working code, but still building pretty tools.
+Currently working on [CyberClean](https://github.com/vuphitung/CyberClean) and ricing Arch Linux with Hyprland, fueled by hope.
 
 ### stack
 
