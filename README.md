@@ -10,10 +10,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&color=FF7EB6&center=true&vCenter=true&width=520&lines=Vu+Phi+Tung;Python+developer;Arch+%2B+Hyprland+enjoyer;Building+CyberClean" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vuphitung&style=flat-square&color=b388ff&label=views" />
-</p>
-
 <br>
 
 ### about
@@ -30,8 +26,10 @@ Làm tool có giao diện đẹp, thích phong cách cyberpunk và anime.
 ### projects
 
 <p>
-  <a href="https://github.com/vuphitung/CyberClean"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vuphitung&repo=CyberClean&hide_border=true&bg_color=0d1117&title_color=ff7eb6&text_color=c9d1d9&icon_color=b388ff" /></a>
-  <a href="https://github.com/vuphitung/Desktop-Dotfiles"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vuphitung&repo=Desktop-Dotfiles&hide_border=true&bg_color=0d1117&title_color=ff7eb6&text_color=c9d1d9&icon_color=b388ff" /></a>
+  <a href="https://github.com/vuphitung/CyberClean"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vuphitung&repo=CyberClean&hide_border=true&bg_color=0d1117&title_color=ff7eb6&text_color=c9d1d9&icon_color=b388ff&description_lines_count=3" /></a>
+  <a href="https://github.com/vuphitung/Desktop-Dotfiles"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vuphitung&repo=Desktop-Dotfiles&hide_border=true&bg_color=0d1117&title_color=ff7eb6&text_color=c9d1d9&icon_color=b388ff&description_lines_count=3" /></a>
+  <a href="https://github.com/vuphitung/CyberDotfiles"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vuphitung&repo=CyberDotfiles&hide_border=true&bg_color=0d1117&title_color=ff7eb6&text_color=c9d1d9&icon_color=b388ff&description_lines_count=3" /></a>
+  <a href="https://github.com/vuphitung/apple-clone-react"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vuphitung&repo=apple-clone-react&hide_border=true&bg_color=0d1117&title_color=ff7eb6&text_color=c9d1d9&icon_color=b388ff&description_lines_count=3" /></a>
 </p>
 
 ### stats
@@ -41,15 +39,15 @@ Làm tool có giao diện đẹp, thích phong cách cyberpunk và anime.
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuphitung&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff7eb6&text_color=c9d1d9" />
 </p>
 
-### contribution graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vuphitung&bg_color=0d1117&color=ff7eb6&line=b388ff&point=ffffff&area=true&area_color=b388ff&hide_border=true" width="100%" />
+### activity
 
 <img src="https://raw.githubusercontent.com/vuphitung/vuphitung/output/snake-dark.svg" width="100%" />
 
 ### contact
 
-[![Email](https://img.shields.io/badge/email-EMAIL_CỦA_BRO-ff7eb6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EMAIL_CỦA_BRO)
-[![Facebook](https://img.shields.io/badge/facebook-b388ff?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/LINK_CỦA_BRO)
+[![Email](https://img.shields.io/badge/email-vuphitungnui%40gmail.com-ff7eb6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vuphitungnui@gmail.com)
+<!-- Facebook: xóa dấu comment này và thay LINK nếu muốn dùng
+[![Facebook](https://img.shields.io/badge/facebook-b388ff?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/LINK)
+-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:b388ff,100:ff7eb6&height=100&section=footer" width="100%" />
