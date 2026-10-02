@@ -50,4 +50,5 @@ Làm tool có giao diện đẹp, thích phong cách cyberpunk và anime.
 [![Facebook](https://img.shields.io/badge/facebook-b388ff?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/LINK)
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:b388ff,100:ff7eb6&height=100&section=footer" width="100%" />
+<img src="https://media.tenor.com/8YDT-SeRzTsAAAAM/herta-honkai-star-rail.gif" width="250" alt="Herta Kururin" />
+
