@@ -1,21 +1,21 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:b388ff,100:ff7eb6&height=220&section=header&text=vuphitung&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=python%20%2F%20linux%20%2F%20anime&descSize=18&descAlignY=60&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:b388ff,100:ff7eb6&height=220&section=header&text=vuphitung&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=python%20%2F%20linux%20%2F%20memes&descSize=18&descAlignY=60&animation=twinkling" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vuphitung/vuphitung/main/anime.gif" width="260" />
+  <img src="https://raw.githubusercontent.com/vuphitung/vuphitung/main/cat.gif" width="450" alt="cat eating chips through windows 7" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&color=FF7EB6&center=true&vCenter=true&width=520&lines=Vu+Phi+Tung;Python+developer;Arch+%2B+Hyprland+enjoyer;Building+CyberClean" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&color=FF7EB6&center=true&vCenter=true&width=560&lines=Vu+Phi+Tung;Python+developer;i+use+arch+btw;Building+CyberClean;Windows+is+broken%2C+cat+is+eating+chips" />
 </p>
 
 <br>
 
 ### about
 
-Làm tool có giao diện đẹp, thích phong cách cyberpunk và anime.
-Đang build [CyberClean](https://github.com/vuphitung/CyberClean) và rice Arch Linux với Hyprland.
+Code bug nhiều hơn code chạy, nhưng vẫn build được tool đẹp.
+Đang làm [CyberClean](https://github.com/vuphitung/CyberClean) và rice Arch Linux với Hyprland bằng tinh thần hy vọng.
 
 ### stack
 
@@ -48,6 +48,7 @@ Làm tool có giao diện đẹp, thích phong cách cyberpunk và anime.
 [![Email](https://img.shields.io/badge/email-vuphitungnui%40gmail.com-ff7eb6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vuphitungnui@gmail.com)
 
 <p align="center">
-  <img src="https://media.tenor.com/8YDT-SeRzTsAAAAM/herta-honkai-star-rail.gif" width="450" alt="Herta Kururin" />
+  <img src="https://media.tenor.com/8YDT-SeRzTsAAAAM/herta-honkai-star-rail.gif" width="300" alt="Herta" />
 </p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:b388ff,100:ff7eb6&height=100&section=footer" width="100%" />
