@@ -46,9 +46,7 @@ Làm tool có giao diện đẹp, thích phong cách cyberpunk và anime.
 ### contact
 
 [![Email](https://img.shields.io/badge/email-vuphitungnui%40gmail.com-ff7eb6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vuphitungnui@gmail.com)
-<!-- Facebook: xóa dấu comment này và thay LINK nếu muốn dùng
-[![Facebook](https://img.shields.io/badge/facebook-b388ff?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/LINK)
--->
 
-<img src="https://media.tenor.com/8YDT-SeRzTsAAAAM/herta-honkai-star-rail.gif" width="250" alt="Herta Kururin" />
-
+<p align="center">
+  <img src="https://media.tenor.com/8YDT-SeRzTsAAAAM/herta-honkai-star-rail.gif" width="450" alt="Herta Kururin" />
+</p>
