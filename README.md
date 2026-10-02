@@ -1,33 +1,55 @@
-<h1 align="center">Hi there 👋 I'm Vu Phi Tung</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Python+Developer;Linux+%26+Hyprland+Rice+Enthusiast;Building+CyberClean+⚡" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:b388ff,100:ff7eb6&height=220&section=header&text=vuphitung&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=python%20%2F%20linux%20%2F%20anime&descSize=18&descAlignY=60&animation=twinkling" width="100%" />
 </p>
 
-### 🛠️ Tech stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-
-### ⭐ Projects I'm working on
-- [CyberClean](https://github.com/vuphitung/CyberClean) – system cleaner, cyberpunk UI
-- [CyberDotfiles](https://github.com/vuphitung/CyberDotfiles)
-- [Desktop-Dotfiles](https://github.com/vuphitung/Desktop-Dotfiles)
-
-### 📊 GitHub Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vuphitung&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuphitung&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/vuphitung/vuphitung/main/anime.gif" width="260" />
 </p>
 
-<details>
-<summary>🏆 Streak & Activity</summary>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&color=FF7EB6&center=true&vCenter=true&width=520&lines=Vu+Phi+Tung;Python+developer;Arch+%2B+Hyprland+enjoyer;Building+CyberClean" />
+</p>
 
-![Streak](https://streak-stats.demolab.com?user=vuphitung&theme=tokyonight&hide_border=true)
-</details>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vuphitung&style=flat-square&color=b388ff&label=views" />
+</p>
 
-### 📫 Contact
-![Email](https://img.shields.io/badge/Email-you@gmail.com-red?style=flat-square&logo=gmail)
-![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)
+<br>
+
+### about
+
+Làm tool có giao diện đẹp, thích phong cách cyberpunk và anime.
+Đang build [CyberClean](https://github.com/vuphitung/CyberClean) và rice Arch Linux với Hyprland.
+
+### stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,js,react,html,css,bash,linux,arch,git,vscode&theme=dark" />
+</p>
+
+### projects
+
+<p>
+  <a href="https://github.com/vuphitung/CyberClean"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vuphitung&repo=CyberClean&hide_border=true&bg_color=0d1117&title_color=ff7eb6&text_color=c9d1d9&icon_color=b388ff" /></a>
+  <a href="https://github.com/vuphitung/Desktop-Dotfiles"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vuphitung&repo=Desktop-Dotfiles&hide_border=true&bg_color=0d1117&title_color=ff7eb6&text_color=c9d1d9&icon_color=b388ff" /></a>
+</p>
+
+### stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vuphitung&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff7eb6&icon_color=b388ff&text_color=c9d1d9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuphitung&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff7eb6&text_color=c9d1d9" />
+</p>
+
+### contribution graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vuphitung&bg_color=0d1117&color=ff7eb6&line=b388ff&point=ffffff&area=true&area_color=b388ff&hide_border=true" width="100%" />
+
+<img src="https://raw.githubusercontent.com/vuphitung/vuphitung/output/snake-dark.svg" width="100%" />
+
+### contact
+
+[![Email](https://img.shields.io/badge/email-EMAIL_CỦA_BRO-ff7eb6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EMAIL_CỦA_BRO)
+[![Facebook](https://img.shields.io/badge/facebook-b388ff?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/LINK_CỦA_BRO)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:b388ff,100:ff7eb6&height=100&section=footer" width="100%" />
