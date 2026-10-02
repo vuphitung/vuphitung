@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vuphitung/vuphitung/main/cat.gif" width="450" alt="cat eating chips through windows 7" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&color=FF7EB6&center=true&vCenter=true&width=560&lines=Vu+Phi+Tung;Python+developer;i+use+arch+btw;Building+CyberClean;Windows+is+broken%2C+cat+is+eating+chips" />
 </p>
 
@@ -48,7 +44,7 @@ Code bug nhiều hơn code chạy, nhưng vẫn build được tool đẹp.
 [![Email](https://img.shields.io/badge/email-vuphitungnui%40gmail.com-ff7eb6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vuphitungnui@gmail.com)
 
 <p align="center">
-  <img src="https://media.tenor.com/8YDT-SeRzTsAAAAM/herta-honkai-star-rail.gif" width="300" alt="Herta" />
+  <img src="https://raw.githubusercontent.com/vuphitung/vuphitung/main/cat.gif" width="450" alt="cat eating chips through windows 7" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:b388ff,100:ff7eb6&height=100&section=footer" width="100%" />
