@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 70" width="960" height="70" role="img" aria-label="footer">
+<defs><linearGradient id="f" x1="0" y1="0" x2="1920" y2="0" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#19F0DC"/><stop offset=".25" stop-color="#4FA8FF"/><stop offset=".5" stop-color="#FF4FB8"/><stop offset=".75" stop-color="#4FA8FF"/><stop offset="1" stop-color="#19F0DC"/><animateTransform attributeName="gradientTransform" type="translate" values="0 0;-960 0" dur="8s" repeatCount="indefinite"/></linearGradient></defs>
+<rect x="0" y="14" width="960" height="2" fill="url(#f)"/>
+<g font-family="'JetBrains Mono','Cascadia Code','Fira Code',Consolas,'DejaVu Sans Mono',Menlo,monospace" font-size="12" fill="#6E86AD" text-anchor="middle">
+<text x="480" y="46" xml:space="preserve">// made with caffeine, hope and a cat that eats chips //</text></g>
+</svg>

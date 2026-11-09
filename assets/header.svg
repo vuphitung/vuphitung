@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 300" width="960" height="300" role="img" aria-label="vuphitung — python / linux / memes">
+<title>vuphitung</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="960" y2="300" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#050810"/><stop offset=".6" stop-color="#0A1226"/><stop offset="1" stop-color="#0D1030"/></linearGradient>
+  <linearGradient id="rim" x1="0" y1="0" x2="960" y2="300" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#19F0DC" stop-opacity=".55"/><stop offset=".5" stop-color="#4FA8FF" stop-opacity=".25"/><stop offset="1" stop-color="#FF4FB8" stop-opacity=".55"/></linearGradient>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#4FA8FF" stroke-opacity=".07"/></pattern>
+
+  <linearGradient id="flow" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#19F0DC"/><stop offset=".25" stop-color="#4FA8FF"/><stop offset=".5" stop-color="#A47DFF"/><stop offset=".75" stop-color="#FF4FB8"/><stop offset="1" stop-color="#19F0DC"/><animateTransform attributeName="gradientTransform" type="translate" values="0 0;-600 0" dur="8s" repeatCount="indefinite"/></linearGradient>
+  <linearGradient id="hex" x1="40" y1="30" x2="216" y2="226" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#19F0DC"/><stop offset=".55" stop-color="#4FA8FF"/><stop offset="1" stop-color="#FF4FB8"/></linearGradient>
+  <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#19F0DC" stop-opacity="0"/><stop offset=".5" stop-color="#19F0DC" stop-opacity=".16"/><stop offset="1" stop-color="#19F0DC" stop-opacity="0"/></linearGradient>
+  <filter id="blur" x="-10%" y="-40%" width="120%" height="180%"><feGaussianBlur stdDeviation="6"/></filter>
+  <clipPath id="card"><rect x="1" y="1" width="958" height="298" rx="18"/></clipPath>
+  <clipPath id="c0"><rect x="188" y="196" width="0" height="34"><animate attributeName="width" values="0;259.2;259.2;0;0" keyTimes="0;0.1050;0.2250;0.2500;1" dur="20s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c1"><rect x="188" y="196" width="0" height="34"><animate attributeName="width" values="0;0;172.8;172.8;0;0" keyTimes="0;0.2500;0.3550;0.4750;0.5000;1" dur="20s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c2"><rect x="188" y="196" width="0" height="34"><animate attributeName="width" values="0;0;334.8;334.8;0;0" keyTimes="0;0.5000;0.6050;0.7250;0.7500;1" dur="20s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c3"><rect x="188" y="196" width="0" height="34"><animate attributeName="width" values="0;0;432.0;432.0;0;0" keyTimes="0;0.7500;0.8550;0.9750;1.0000;1" dur="20s" repeatCount="indefinite"/></rect></clipPath>
+
+</defs>
+<rect width="960" height="300" rx="18" fill="url(#bg)"/>
+<rect width="960" height="300" rx="18" fill="url(#grid)"/>
+<g clip-path="url(#card)"><rect x="0" y="-60" width="960" height="60" fill="url(#scan)"><animate attributeName="y" values="-60;300" dur="5s" repeatCount="indefinite"/></rect>
+<rect width="960" height="42" fill="#0B1428" fill-opacity=".8"/></g>
+<path d="M0 42H960" stroke="#4FA8FF" stroke-opacity=".15"/>
+<g font-family="'JetBrains Mono','Cascadia Code','Fira Code',Consolas,'DejaVu Sans Mono',Menlo,monospace">
+  <circle cx="28" cy="21" r="5.5" fill="#FF5F6D"/><circle cx="48" cy="21" r="5.5" fill="#FFC857"/><circle cx="68" cy="21" r="5.5" fill="#3DF5A2"/>
+  <text x="92" y="25" font-size="12" fill="#6E86AD">vuphitung@arch:~</text>
+  <circle cx="820" cy="21" r="4" fill="#3DF5A2"><animate attributeName="opacity" values="1;.25;1" dur="1.6s" repeatCount="indefinite"/></circle>
+  <text x="832" y="25" font-size="11" fill="#8DA2C6">SYS ONLINE</text>
+</g>
+<g transform="translate(44 88) scale(.5)">
+  <polygon points="128,36 207.7,82 207.7,174 128,220 48.3,174 48.3,82" fill="#19F0DC" fill-opacity=".10" stroke="url(#hex)" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M90 100 L128 166 L166 100" fill="none" stroke="url(#hex)" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M176.9 84 L179 90.9 L185.9 93 L179 95.1 L176.9 102 L174.8 95.1 L167.9 93 L174.8 90.9 Z" fill="#fff"/>
+</g>
+<g font-family="'JetBrains Mono','Cascadia Code','Fira Code',Consolas,'DejaVu Sans Mono',Menlo,monospace">
+  <g filter="url(#blur)"><text x="184" y="160" font-size="76" font-weight="700" textLength="420" lengthAdjust="spacing" fill="#19F0DC" >vuphitung</text><animate attributeName="opacity" values=".3;.65;.3" dur="3.2s" repeatCount="indefinite"/></g>
+  <text x="184" y="160" font-size="76" font-weight="700" textLength="420" lengthAdjust="spacing" fill="url(#flow)" >vuphitung</text>
+  <g opacity="0" transform="translate(-3 0)"><text x="184" y="160" font-size="76" font-weight="700" textLength="420" lengthAdjust="spacing" fill="#FF4FB8" >vuphitung</text><animate attributeName="opacity" values="0;0;.75;0;.5;0;0" keyTimes="0;.90;.91;.92;.93;.94;1" dur="6s" repeatCount="indefinite"/></g>
+  <g opacity="0" transform="translate(3 0)"><text x="184" y="160" font-size="76" font-weight="700" textLength="420" lengthAdjust="spacing" fill="#19F0DC" >vuphitung</text><animate attributeName="opacity" values="0;0;.75;0;.5;0;0" keyTimes="0;.90;.91;.92;.93;.94;1" dur="6s" repeatCount="indefinite"/></g>
+  <text x="188" y="219" font-size="18" fill="#EAF1FF" textLength="259.2" lengthAdjust="spacing" clip-path="url(#c0)" xml:space="preserve">$ python / linux / memes</text>
+<rect x="188" y="203" width="9" height="19" fill="#19F0DC"><animate attributeName="x" values="188;447.2;447.2;188;188" keyTimes="0;0.1050;0.2250;0.2500;1" dur="20s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;1;1;0;0" keyTimes="0;0.1050;0.2250;0.2500;1" dur="20s" repeatCount="indefinite"/></rect>
+<text x="188" y="219" font-size="18" fill="#EAF1FF" textLength="172.8" lengthAdjust="spacing" clip-path="url(#c1)" xml:space="preserve">$ i use arch btw</text>
+<rect x="188" y="203" width="9" height="19" fill="#19F0DC"><animate attributeName="x" values="188;188;360.8;360.8;188;188" keyTimes="0;0.2500;0.3550;0.4750;0.5000;1" dur="20s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;1;0;0" keyTimes="0;0.2500;0.3550;0.4750;0.5000;1" dur="20s" repeatCount="indefinite"/></rect>
+<text x="188" y="219" font-size="18" fill="#EAF1FF" textLength="334.8" lengthAdjust="spacing" clip-path="url(#c2)" xml:space="preserve">$ building CyberClean &amp; ViTrans</text>
+<rect x="188" y="203" width="9" height="19" fill="#19F0DC"><animate attributeName="x" values="188;188;522.8;522.8;188;188" keyTimes="0;0.5000;0.6050;0.7250;0.7500;1" dur="20s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;1;0;0" keyTimes="0;0.5000;0.6050;0.7250;0.7500;1" dur="20s" repeatCount="indefinite"/></rect>
+<text x="188" y="219" font-size="18" fill="#EAF1FF" textLength="432.0" lengthAdjust="spacing" clip-path="url(#c3)" xml:space="preserve">$ windows is broken, cat is eating chips</text>
+<rect x="188" y="203" width="9" height="19" fill="#19F0DC"><animate attributeName="x" values="188;188;620.0;620.0;188;188" keyTimes="0;0.7500;0.8550;0.9750;1.0000;1" dur="20s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;1;0;0" keyTimes="0;0.7500;0.8550;0.9750;1.0000;1" dur="20s" repeatCount="indefinite"/></rect>
+
+  <text x="188" y="262" font-size="12" fill="#6E86AD" textLength="470" lengthAdjust="spacing" xml:space="preserve">PYTHON  ·  LINUX  ·  ARCH + HYPRLAND  ·  MEMES</text>
+</g>
+<rect x="1" y="1" width="958" height="298" rx="18" fill="none" stroke="url(#rim)" stroke-width="1.5"/>
+</svg>
