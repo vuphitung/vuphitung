@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 468 178" width="468" height="178" role="img" aria-label="icon-craft">
+  <title>icon-craft</title>
+  <defs>
+    <linearGradient id="bg-c2" x1="0" y1="0" x2="468" y2="178" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#060B18"/>
+      <stop offset="1" stop-color="#0E1130"/>
+    </linearGradient>
+    <radialGradient id="gl-c2" cx="48" cy="36" r="140" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#A47DFF" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#A47DFF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="rim-c2" x1="0" y1="0" x2="468" y2="178" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#A47DFF" stop-opacity="0.65"/>
+      <stop offset="0.55" stop-color="#4FA8FF" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#FF4FB8" stop-opacity="0.60"/>
+    </linearGradient>
+    <linearGradient id="bar-c2" x1="0" y1="0" x2="468" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#A47DFF"/>
+      <stop offset="1" stop-color="#FF4FB8"/>
+    </linearGradient>
+    <linearGradient id="sh-c2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#A47DFF" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid-c2" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M20 0H0V20" fill="none" stroke="#4FA8FF" stroke-opacity="0.055"/>
+    </pattern>
+    <clipPath id="clip-c2">
+      <rect x="1" y="1" width="466" height="176" rx="14"/>
+    </clipPath>
+  </defs>
+
+  <rect width="468" height="178" rx="14" fill="url(#bg-c2)"/>
+  <rect width="468" height="178" rx="14" fill="url(#gl-c2)"/>
+  <rect width="468" height="178" rx="14" fill="url(#grid-c2)"/>
+
+  <g clip-path="url(#clip-c2)">
+    <rect x="-130" y="0" width="130" height="178" fill="url(#sh-c2)">
+      <animate attributeName="x" values="-130;470" dur="6.4s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="0" y="0" width="468" height="3.2" fill="url(#bar-c2)"/>
+  </g>
+
+  <rect x="20" y="20" width="34" height="34" rx="9" fill="#A47DFF" fill-opacity="0.10" stroke="#A47DFF" stroke-opacity="0.45"/>
+  <rect x="29.5" y="29.5" width="15" height="15" rx="3" fill="none" stroke="#A47DFF" stroke-width="1.6"/><path d="M37 32.5 L38.3 35.7 L41.5 37 L38.3 38.3 L37 41.5 L35.7 38.3 L32.5 37 L35.7 35.7 Z" fill="#A47DFF"/>
+
+  <g font-family="'JetBrains Mono','Cascadia Code','Fira Code','SF Mono',Consolas,'DejaVu Sans Mono',Menlo,monospace">
+    <text x="66" y="36" font-size="16" font-weight="700" fill="#C8AEFF">icon-craft</text>
+    <text x="66" y="52" font-size="10.5" fill="#6E86AD">vuphitung/icon-craft</text>
+
+    <rect x="338" y="22" width="54" height="20" rx="10" fill="#101A34" stroke="#4FA8FF" stroke-opacity="0.35"/>
+    <text x="365" y="35.5" font-size="9.5" font-weight="700" fill="#8EA7CE" text-anchor="middle" letter-spacing="0.5">PUBLIC</text>
+    <rect x="400" y="22" width="46" height="20" rx="10" fill="#FFC857" fill-opacity="0.14" stroke="#FFC857" stroke-opacity="0.55"/>
+    <text x="423.0" y="35.5" font-size="10.5" font-weight="700" fill="#FFD97D" text-anchor="middle">★ 1</text>
+
+    <text x="22" y="84" font-size="12.5" fill="#B8C7E6">An AI Agent Skill for semantic UI icon selection,</text>
+    <text x="22" y="103" font-size="12.5" fill="#B8C7E6">consistent icon systems, custom SVG creation, and</text>
+    <text x="22" y="122" font-size="12.5" fill="#B8C7E6">accessibility validation.</text>
+
+    <path d="M20 139 H448" stroke="#4FA8FF" stroke-opacity="0.14"/>
+
+    <circle cx="28" cy="156" r="5" fill="#4B8BBE"/>
+    <text x="41" y="160" font-size="12" fill="#9CB4D8">Python</text>
+    <text x="446" y="160" font-size="11" fill="#A47DFF" fill-opacity="0.88" text-anchor="end">open repo ↗</text>
+  </g>
+
+  <rect x="1" y="1" width="466" height="176" rx="14" fill="none" stroke="url(#rim-c2)" stroke-width="1.35"/>
+</svg>

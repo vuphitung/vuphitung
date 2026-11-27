@@ -1,0 +1,133 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 296" width="960" height="296" role="img" aria-label="system info">
+  <title>fastfetch — vuphitung@arch</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="960" y2="296" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#050812"/>
+      <stop offset="0.58" stop-color="#0A1124"/>
+      <stop offset="1" stop-color="#110E2B"/>
+    </linearGradient>
+    <linearGradient id="rim" x1="0" y1="0" x2="960" y2="296" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#19F0DC" stop-opacity="0.6"/>
+      <stop offset="0.5" stop-color="#4FA8FF" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#FF4FB8" stop-opacity="0.6"/>
+    </linearGradient>
+    <linearGradient id="hex" x1="40" y1="30" x2="216" y2="226" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#19F0DC"/>
+      <stop offset="0.55" stop-color="#4FA8FF"/>
+      <stop offset="1" stop-color="#FF4FB8"/>
+    </linearGradient>
+    <linearGradient id="barCyan" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#19F0DC"/>
+      <stop offset="1" stop-color="#4FA8FF"/>
+    </linearGradient>
+    <linearGradient id="barPink" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#A47DFF"/>
+      <stop offset="1" stop-color="#FF4FB8"/>
+    </linearGradient>
+    <linearGradient id="barMint" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3DF5A2"/>
+      <stop offset="1" stop-color="#19F0DC"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#4FA8FF" stroke-opacity="0.06"/>
+    </pattern>
+    <clipPath id="sc">
+      <rect x="1" y="1" width="958" height="294" rx="18"/>
+    </clipPath>
+  </defs>
+
+  <rect width="960" height="296" rx="18" fill="url(#bg)"/>
+  <rect width="960" height="296" rx="18" fill="url(#grid)"/>
+
+  <g clip-path="url(#sc)">
+    <rect width="960" height="40" fill="#091022" fill-opacity="0.88"/>
+  </g>
+  <path d="M0 40H960" stroke="#4FA8FF" stroke-opacity="0.16"/>
+
+  <g font-family="'JetBrains Mono','Cascadia Code','Fira Code','SF Mono',Consolas,'DejaVu Sans Mono',Menlo,monospace">
+    <circle cx="26" cy="20" r="5" fill="#FF5F6D"/>
+    <circle cx="44" cy="20" r="5" fill="#FFC857"/>
+    <circle cx="62" cy="20" r="5" fill="#3DF5A2"/>
+    <text x="84" y="24" font-size="12" fill="#7D95BC">fastfetch — vuphitung@arch</text>
+    <text x="936" y="24" font-size="11" fill="#6E86AD" text-anchor="end">WAYLAND // HYPRLAND</text>
+  </g>
+
+  <g transform="translate(132 162)">
+    <circle cx="0" cy="0" r="78" fill="none" stroke="#4FA8FF" stroke-opacity="0.15" stroke-width="1"/>
+    <circle cx="0" cy="0" r="68" fill="none" stroke="#19F0DC" stroke-opacity="0.25" stroke-width="1.2" stroke-dasharray="4 8">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="36s" repeatCount="indefinite"/>
+    </circle>
+    <g transform="translate(-74 -74) scale(0.58)">
+      <polygon points="128,32 211,80 211,176 128,224 45,176 45,80" fill="#19F0DC" fill-opacity="0.08" stroke="url(#hex)" stroke-width="8" stroke-linejoin="round"/>
+      <polygon points="128,68 180,98 180,158 128,188 76,158 76,98" fill="none" stroke="url(#hex)" stroke-width="4" stroke-opacity="0.55"/>
+      <path d="M94 106 L128 162 L162 106" fill="none" stroke="url(#hex)" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <text x="0" y="102" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="10.5" fill="#6E86AD" text-anchor="middle" letter-spacing="1.2">[ARCH.X86_64]</text>
+  </g>
+
+  <g font-family="'JetBrains Mono','Cascadia Code','Fira Code','SF Mono',Consolas,'DejaVu Sans Mono',Menlo,monospace">
+    <text x="256" y="74" font-size="15" font-weight="700" fill="#FF4FB8">vuphitung<tspan fill="#6E86AD">@</tspan><tspan fill="#19F0DC">arch</tspan></text>
+    <path d="M256 83 H622" stroke="url(#barCyan)" stroke-opacity="0.45" stroke-width="1.2"/>
+
+    <text x="256" y="108" font-size="13.5" fill="#19F0DC" font-weight="700">os</text>
+    <text x="342" y="108" font-size="13.5" fill="#EAF1FF">Arch Linux (btw)</text>
+
+    <text x="256" y="132" font-size="13.5" fill="#19F0DC" font-weight="700">wm</text>
+    <text x="342" y="132" font-size="13.5" fill="#EAF1FF">Hyprland + Quickshell</text>
+
+    <text x="256" y="156" font-size="13.5" fill="#19F0DC" font-weight="700">lang</text>
+    <text x="342" y="156" font-size="13.5" fill="#EAF1FF">Python · QML · Lua · JS · Bash</text>
+
+    <text x="256" y="180" font-size="13.5" fill="#19F0DC" font-weight="700">editor</text>
+    <text x="342" y="180" font-size="13.5" fill="#EAF1FF">VS Code</text>
+
+    <text x="256" y="204" font-size="13.5" fill="#19F0DC" font-weight="700">now</text>
+    <text x="342" y="204" font-size="13.5" fill="#EAF1FF">CyberClean · icon-craft · ViTrans</text>
+
+    <text x="256" y="228" font-size="13.5" fill="#19F0DC" font-weight="700">mood</text>
+    <text x="342" y="228" font-size="13.5" fill="#EAF1FF">fueled by hope &amp; caffeine</text>
+
+    <g transform="translate(256 244)">
+      <rect x="0" y="0" width="22" height="12" rx="3" fill="#FF5F6D"/>
+      <rect x="27" y="0" width="22" height="12" rx="3" fill="#FFC857"/>
+      <rect x="54" y="0" width="22" height="12" rx="3" fill="#3DF5A2"/>
+      <rect x="81" y="0" width="22" height="12" rx="3" fill="#19F0DC"/>
+      <rect x="108" y="0" width="22" height="12" rx="3" fill="#4FA8FF"/>
+      <rect x="135" y="0" width="22" height="12" rx="3" fill="#A47DFF"/>
+      <rect x="162" y="0" width="22" height="12" rx="3" fill="#FF4FB8"/>
+      <rect x="189" y="0" width="22" height="12" rx="3" fill="#EAF1FF"/>
+    </g>
+
+    <text x="256" y="278" font-size="11.5" fill="#6E86AD">$ <tspan fill="#EAF1FF">echo "ship it"</tspan></text>
+    <rect x="372" y="267" width="8" height="13" rx="1" fill="#19F0DC">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <g font-family="'JetBrains Mono','Cascadia Code','Fira Code','SF Mono',Consolas,'DejaVu Sans Mono',Menlo,monospace">
+    <rect x="664" y="62" width="268" height="210" rx="12" fill="#080F22" fill-opacity="0.78" stroke="#4FA8FF" stroke-opacity="0.22"/>
+    <text x="682" y="85" font-size="10.5" font-weight="700" fill="#19F0DC" letter-spacing="1">SYSTEM VITALS</text>
+    <text x="914" y="85" font-size="10" fill="#3DF5A2" text-anchor="end">● NOMINAL</text>
+    <path d="M682 95 H914" stroke="#4FA8FF" stroke-opacity="0.16"/>
+
+    <text x="682" y="118" font-size="11" fill="#9CB4D8">RICE AESTHETIC</text>
+    <text x="914" y="118" font-size="11" fill="#19F0DC" text-anchor="end">96%</text>
+    <rect x="682" y="125" width="232" height="7" rx="3.5" fill="#14203C"/>
+    <rect x="682" y="125" width="222" height="7" rx="3.5" fill="url(#barCyan)"/>
+
+    <text x="682" y="154" font-size="11" fill="#9CB4D8">HOPE LEVEL</text>
+    <text x="914" y="154" font-size="11" fill="#3DF5A2" text-anchor="end">99%</text>
+    <rect x="682" y="161" width="232" height="7" rx="3.5" fill="#14203C"/>
+    <rect x="682" y="161" width="229" height="7" rx="3.5" fill="url(#barMint)"/>
+
+    <text x="682" y="190" font-size="11" fill="#9CB4D8">BUGS / FEATURE</text>
+    <text x="914" y="190" font-size="11" fill="#FF8BD0" text-anchor="end">74%</text>
+    <rect x="682" y="197" width="232" height="7" rx="3.5" fill="#14203C"/>
+    <rect x="682" y="197" width="172" height="7" rx="3.5" fill="url(#barPink)"/>
+
+    <rect x="682" y="222" width="232" height="34" rx="7" fill="#0D1730" stroke="#19F0DC" stroke-opacity="0.22"/>
+    <text x="694" y="243" font-size="10.5" fill="#9CB4D8">&gt; tuned for <tspan fill="#19F0DC">Intel iGPU</tspan> + 60fps</text>
+  </g>
+
+  <rect x="1" y="1" width="958" height="294" rx="18" fill="none" stroke="url(#rim)" stroke-width="1.5"/>
+</svg>
